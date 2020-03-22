@@ -1,9 +1,8 @@
 # Description
 
-This project contains the answer to the following question.
 
-Write a web app with using Spring Boot,there will be User registration with fields
-"name" , "surname" and "address" and you will display these informantions in a
+Web app with using Spring Boot, there will be Vendor registration with fields
+"name" , "type" and "function" and you will display these informantions in a
 grid. Also we could do UPDATE,DELETE,CREATE,READ operations in grid.
 
 # Which Technologies We Will Use?
